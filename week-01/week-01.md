@@ -84,3 +84,12 @@ B) Find the domain name in this URL:
 
 `http://www.bankofamerica.com.sas.signon.do.detect.2.signin.sessionid.rmrlfbqjlokcjpczgs.oxcvsvcpdsoeeseytje.yucfnjtidbvnujxrwjmsea.zydyilpnchtjrriiszti.zydyilpnchtjrriiszti.zydyilpnchtjrriiszti.zydyilpnchtjrriiszti.nuyovbuskl.bernadinec.com/index.php?pageType=708XeMWZamp;cust=redacted@redacted.redactedamp;l=lWXS3AlBXVShqAhQRfhgTDrf=nttps://sitekey.bnkofamerica.com/sas/signon.do?SignIn&SMSESSIONID=ASERTFGUY2I94O0389GYBH23JNMKUYH83JMN12I90U82HJNASDKOASD9AS8D&iv=90832yhIopOWjos`
 
+
+## Docker setup prompt
+
+> Create a devcontainer setup using Docker compose for a standard LAMP server with an Apache/PHP web service and a  MySQL database service. 
+> - The web service should have common ubuntu utilities installed like curl, iputils, ping, less, emacs, sudo, git, sqlite. 
+> - Mount project source into the web container. 
+> - Expose web and db ports for local development. 
+> - Configure `devcontainer.json` to use the web service and include useful PHP/MySQL VS Code extensions
+> 
