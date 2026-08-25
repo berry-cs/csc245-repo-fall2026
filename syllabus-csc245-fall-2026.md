@@ -22,7 +22,7 @@ Web development is a core modern computing skill. Web apps are everywhere, and e
 ## Methods of Instruction
 Our class meetings will be used for presentation (instructor & student), discussion, and (mostly) “hands-on” lab activities. In order to make best use of the time, you are expected to read assigned material and complete assigned exercises ahead of time. Thus, we will be able to cover the material in more depth to build your understanding and retention of the ideas and concepts explored in the course.
 
-> You should expect to devote a significant amount of time outside of class as well to complete the assignments: I would estimate 1 to 2 hours for each hour spent in class (i.e. 4 to 8+ hours per week). (Of course, I’ll be spending a similar or greater amount of time keeping up with you as
+> You should expect to devote a significant amount of time outside of class as well to complete the assignments: I would estimate 2 to 3 hours for each hour spent in class (i.e. 6 to 9+ hours per week). (Of course, I’ll be spending a similar or greater amount of time keeping up with you as
 well!)
 
 ## Student Learning Outcomes
