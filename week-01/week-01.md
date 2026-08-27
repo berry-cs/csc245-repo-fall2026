@@ -16,10 +16,13 @@ Day 2 - Broken website scavenger hunt, server access and setup
     - [RFC 3986](https://www.rfc-editor.org/info/rfc3986/#section-3) - Uniform Resource Identifier (URI)
     - URL dissection with [unfurl](https://dfir.blog/unfurl/)
 - Development environment setup
-    - VS Code
-    - Github Desktop
-    - Docker
-
+    - [**VS Code**](https://code.visualstudio.com/)<br>
+        Also install these extensions:
+        - **Dev Containers** extension
+        - **Live Preview** extension
+        - **Remote - SSH** extension
+    - [**Github Desktop**](https://desktop.github.com/download/)
+    - [**Docker Desktop**](https://www.docker.com/products/docker-desktop/)
 
 
 ## URL Fun
@@ -93,3 +96,38 @@ B) Find the domain name in this URL:
 > - Expose web and db ports for local development. 
 > - Configure `devcontainer.json` to use the web service and include useful PHP/MySQL VS Code extensions
 > 
+
+
+## Development Work
+
+- Get Github repos
+- Access csproj server via SSH
+- Start the ToDo App!
+
+
+
+
+
+## Assignment: Extensions and Explorations
+
+If you are not sure how to go about any of these, please ask!
+
+> **Pick any 3, at least, of the following to work on**. Create an `assignments/homework01` directory in your repo and submit your work there in the form of text or markdown files, screenshots, or other appropriate formats. 
+
+1. **HTTP Observation Journal**: Capture a set of interesting browser requests triggered by a single URL access to a site of your choice; Record anything interesting you see about method, status code, or resource types. What status codes do you observe for various resources and what do they mean?
+
+2. **404 Page Field Find**: Find a live interesting and creative 404 page, capture the URL that triggered the 404 response, and describe how the path likely produced a not found response. Take a screenshot of the Network tab in DevTools showing the 404 response and include it in your submission.
+
+3. **URL Intent Spotter Log**: During normal browsing over the week, record three interesting URLs and classify each by intent (for example: search, account/profile, filtered content, docs, checkout). For each URL, label scheme, host, path, query string, and fragment (if present), then explain which path segments or query parameters reveal that intent.
+
+4. **JSON API URL Exploration**: Find one URL that returns JSON from a public JavaScript API. Document the base URL and test at least three variants by changing query parameters or path values. For each variant, record the exact URL, what parameter or path change you made, and how the returned data changed.
+
+5. **Server Build-from-URL Challenge**: Given a public URL on the departmental server, create the folder and file structure needed so the URL resolves correctly. Submit the final path you created plus a quick verification note.
+
+
+
+## Reading
+
+Read the following chapters from the textbook: **1, 2, 4, and 5**
+
+There are no coding practice assignments associated with the reading, but you should complete the "Check Your Understanding" questions on your own.
