@@ -3,7 +3,7 @@
 <!-- 
 Day 1 - mentimeter, course intro, browser devtools trace exercise, URL dissection with unfurl, AI agent setup in VS code
   Out of class work - find your favorite live 404 error page
-Day 2 - Broken website scavenger hunt, server access and setup
+Day 2 - Server access and setup, start writing TaskHelm
 -->
 
 ## Tuesday
