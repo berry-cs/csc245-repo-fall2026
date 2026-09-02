@@ -52,7 +52,25 @@ document.addEventListener("DOMContentLoaded", function() {
 - TaskHelm stage-01.a starter code -- CSS rules, selectors, box model
     - [stage-01.a.zip](stage-01.a.zip)
 
-- JavaScript - client side scripting (`app.js`)
+- JavaScript: client-side scripting (`app.js`)
     - Dynamic greeting
     - Active link highlighting
 
+
+## Thursday
+
+- More JavaScript: working with the DOM and events
+- PHP: server-side scripting
+
+
+
+
+## Reading
+
+Read the following chapters from the textbook: **6, 7, 14, 15, and 31**
+
+- As you read, make sure you do all the "Do It Yourself" exercises. You can find resource files for each chapter in the `textbook-code` folder in your `webdev-workspace-...` repository. 
+
+- At the end of each chapter, complete the "Check Your Understanding" questions. **Upload a screenshot** of your completed and checked work to the assignment page on Canvas.
+
+> As you work through these, please ask on Discord if you can't figure something out!

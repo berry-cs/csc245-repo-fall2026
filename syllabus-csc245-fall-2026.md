@@ -96,10 +96,10 @@ The following is a tentative plan of topics and assignments for the semester.
 | ----------- | ----- | ------- | ---------------- |
 | Aug 25, 27  | Introduction; Web concepts and tools | Ch. 1 - 5 | - |
 | Sep 1, 3    | Basic full-stack web app    | Ch. 6, 7, 14, 15, 31 | Proposal, Mock-ups |
-| Sep 8, 10   | Data and CRUD               | Ch. 33 - 37 | MVP (full stack)   |  
-| Sep 15, 17  | Interaction, Forms, APIs    | Ch. 16 - 19, 22, 32 | Database design    |
-| Sep 22, 24  | State                       | Ch. 20 - 21, 40 | JSON API           |
-| Sep 29, Oct 1 | Authentication            | Ch. 25 - 27 | |
+| Sep 8, 10   | Data and CRUD               | Ch. 33 - 37 |   |  
+| Sep 15, 17  | Interaction, Forms, APIs    | Ch. 16 - 19, 22, 32 | MVP (full stack)     |
+| Sep 22, 24  | State                       | Ch. 20 - 21, 40 |  Database design          |
+| Sep 29, Oct 1 | Authentication            | Ch. 25 - 27 | JSON API |
 | Oct 6, 8    | Authorization               | | Sessions & Authentication | 
 | Oct 13, 15  | Validation and Errors       | | 
 | Oct 22, 27  | (Fall Break) Security       | Ch. 41 - 42 | Validation         |
