@@ -95,6 +95,7 @@ B) Find the domain name in this URL:
 > - Mount project source into the web container. 
 > - Expose web and db ports for local development. 
 > - Configure `devcontainer.json` to use the web service and include useful PHP/MySQL VS Code extensions
+> - Include PHPUnit for unit testing
 > 
 
 
